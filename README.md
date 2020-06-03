@@ -1,6 +1,7 @@
 # media-monitor
 
-
+# About
+Система для медиа-мониторинга
 
 # Perspectives
 Возможные варианты переосмысления, имеющейся реализации [Media Analytics](https://nlp.iict.kz/):
