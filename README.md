@@ -1,5 +1,8 @@
 # media-monitor
 
+
+
+# Perspectives
 Возможные варианты переосмысления, имеющейся реализации [Media Analytics](https://nlp.iict.kz/):
 1. Аналог [ALEM MEDIA MONITORING](https://alem.kz/product-1/), сервиса, направленного на:
 
