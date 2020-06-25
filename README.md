@@ -7,7 +7,7 @@
 2. Обработка данных (<b>PyMorphy2, NLTK, Gensim</b>) 
 3. Построение тематических моделей (<b>LDA, BigARTM, ETM</b>), в том числе и динамических (<b>Custom DTM, DETM</b>)
 4. Классификация документов по множеству критериев (<b>Personal insights, Custom Bayes Model</b>)
-5. Визуализация. (<b>Plotly, MapBox</b>)
+5. Визуализация. (<b>Plotly, MapBox, Django, JavaScript</b>)
 6. Автоматические формирование отчетов. (<b>LaTex</b>)
 
 # Architecture
