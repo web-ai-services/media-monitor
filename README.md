@@ -3,7 +3,7 @@
 Система медиа-мониторинга, покрывающая целый ряд задач:
 
 1. Парсинг ресурсов,в том числе и конфигурируемый Spider (<b>Scrapy</b>) 
-2. Хранение (<b>PostgreSQL, Elasticsearch</b>)
+2. Хранение (<b>Redis, PostgreSQL, Elasticsearch</b>)
 2. Обработка данных (<b>PyMorphy2, NLTK, Gensim</b>) 
 3. Построение тематических моделей (<b>LDA, BigARTM, ETM</b>), в том числе и динамических (<b>Custom DTM, DETM</b>)
 4. Классификация документов по множеству критериев (<b>Personal insights, Custom Bayes Model</b>)
