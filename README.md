@@ -6,7 +6,7 @@
 2. Хранение (<b>PostgreSQL, Elasticsearch</b>)
 2. Обработка данных (<b>PyMorphy2, NLTK, Gensim</b>) 
 3. Построение тематических моделей (<b>LDA, BigARTM, ETM</b>).
-4. Классификация документов по множеству критериев (<b>Isight, Custom Bayes Model</b>)
+4. Классификация документов по множеству критериев (<b>Personal insights, Custom Bayes Model</b>)
 5. Визуализация. (<b>Plotly, MapBoxt</b>)
 6. Автоматические формирование отчетов. (<b>LaTex</b>)
 
