@@ -9,6 +9,8 @@
 5. Визуализация.
 6. Автоматические формирование отчетов.
 
+# Architecture
+
 ![architecture](https://i.ibb.co/BtRjSmy/arch.jpg)
 
 # Perspectives
