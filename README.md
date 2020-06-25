@@ -1,5 +1,5 @@
 # media-monitor
-![asd](https://imgur.com/7ZA6cKz)
+![asd](https://i.imgur.com/7ZA6cKz.jpg)
 
 # About
 Система для медиа-мониторинга
