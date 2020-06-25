@@ -2,13 +2,13 @@
 
 Система медиа-мониторинга, покрывающая целый ряд задач:
 
-1. Парсинг ресурсов,в том числе и конфигурируемый Spider (<b>Scrapy</b>) 
-2. Хранение (<b>Redis, PostgreSQL, Elasticsearch</b>)
-2. Обработка данных (<b>PyMorphy2, NLTK, Gensim</b>) 
-3. Построение тематических моделей (<b>LDA, BigARTM, ETM</b>), в том числе и динамических (<b>Custom DTM, DETM</b>)
-4. Классификация документов по множеству критериев (<b>Personal insights, Custom Bayes Model</b>)
-5. Визуализация. (<b>Plotly, MapBox, Django, JavaScript</b>)
-6. Автоматические формирование отчетов. (<b>LaTex</b>)
+- Парсинг ресурсов,в том числе и конфигурируемый Spider (<b>Scrapy</b>) 
+- Хранение (<b>Redis, PostgreSQL, Elasticsearch</b>)
+- Обработка данных (<b>PyMorphy2, NLTK, Gensim</b>) 
+- Построение тематических моделей (<b>LDA, BigARTM, ETM</b>), в том числе и динамических (<b>Custom DTM, DETM</b>)
+- Классификация документов по множеству критериев (<b>Personal insights, Custom Bayes Model</b>)
+- Визуализация. (<b>Plotly, MapBox, Django, JavaScript</b>)
+- Автоматические формирование отчетов. (<b>LaTex</b>)
 
 # Architecture
 
