@@ -39,6 +39,8 @@ Topic Document Dynamics             |  Criteria Dynamics
 :-------------------------:|:-------------------------:
 ![analytics1](https://i.ibb.co/4SnGh8g/rsz-1analytics-1.png)  |  ![analytics2](https://i.ibb.co/gjzbjZQ/rsz-analytics-2.png)
 
+В системе реализована разнообразная визуализация 
+
 <div align="center">
     <img src=https://i.imgur.com/cdWbEnj.jpg" >
     <p>Geo Dashboard</p>
