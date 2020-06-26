@@ -11,8 +11,10 @@
 - Автоматические формирование отчетов. (<b>LaTex</b>)
 
 # Architecture
-
-![architecture](https://i.ibb.co/BtRjSmy/arch.jpg)
+<div align="center">
+    <img src=https://i.ibb.co/BtRjSmy/arch.jpg" >
+    <p>Architecture</p>
+</div>
 
 Все компоненты системы организованы в виде Docker-контейнеров. Такая реализация обеспечивает работу подсистем в виде независимых компонентов, каждый из которых возможно заменить при необходимости.
 
