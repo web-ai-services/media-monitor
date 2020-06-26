@@ -40,8 +40,10 @@ Topic Document Dynamics             |  Criteria Dynamics
 ![analytics1](https://i.ibb.co/4SnGh8g/rsz-1analytics-1.png)  |  ![analytics2](https://i.ibb.co/gjzbjZQ/rsz-analytics-2.png)
 
 В системе реализована разнообразная визуализация, к примеру документ-динамика некой темы в медиа-пространстве по разным критериям. Динамика критериев в рамках пространства тематической модели. Визуализация портрета освещенности / критериальной оценки СМИ. 
-
-![dtm](https://i.ibb.co/JzKvnvJ/rsz-dtm.jpg)
+<div align="center">
+    <img src=https://i.ibb.co/JzKvnvJ/rsz-dtm.jpg" >
+    <p>Dynamic Topic Modelling</p>
+</div>
                                            
 <div align="center">
     <img src=https://i.imgur.com/I1IFM5a.jpg" >
