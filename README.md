@@ -44,7 +44,9 @@ Topic Document Dynamics             |  Criteria Dynamics
     <img src=https://i.ibb.co/JzKvnvJ/rsz-dtm.jpg" >
     <p>Dynamic Topic Modelling</p>
 </div>
-                                           
+
+Также имеет место, внутренняя разрабокта *Mapping DTM*, поиск динамики топиков, в их пространстве, не опираясь на матрицу документов. В основе подхода лежит алгоритм контекстного, семантического маппинга (__Context Jaccard__), обученный на совместном корпусе.
+
 <div align="center">
     <img src=https://i.imgur.com/I1IFM5a.jpg" >
     <p>Analytics Dashboard</p>
