@@ -39,7 +39,7 @@ Topic Document Dynamics             |  Criteria Dynamics
 :-------------------------:|:-------------------------:
 ![analytics1](https://i.ibb.co/4SnGh8g/rsz-1analytics-1.png)  |  ![analytics2](https://i.ibb.co/gjzbjZQ/rsz-analytics-2.png)
 
-В системе реализована разнообразная визуализация 
+В системе реализована разнообразная визуализация, к примеру документ-динамика некой темы в медиа-пространстве по разным критериям, типа тональности, освещенности, резонансности и прочего. Визуализация портрета СМИ. 
 
 <div align="center">
     <img src=https://i.imgur.com/cdWbEnj.jpg" >
