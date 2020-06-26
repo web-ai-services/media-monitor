@@ -3,7 +3,7 @@
 @ARTICLE{26583204_325243423_2019, 
     author = {Vladimir Barakhnin and Olga Kozhemyakina and Ravil Mukhamediev and Yulia Borzilova and Kirill Yakunin}, 
     keywords = {, natural language processing, streaming word processing, text analysis information systemdevelopment of a text corpus processing system},
-    title = {<p class="text">The design of the structure of the software system for processing text document corpus</p>},
+    title = {<p>The design of the structure of the software system for processing text document corpus</p>},
     journal = {},
     year = {2019},
     number = {4 Vol.13},
