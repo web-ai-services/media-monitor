@@ -1,12 +1,14 @@
 # About
 ```
-@article{turc2019,
-  title={Well-Read Students Learn Better: On the Importance of Pre-training Compact Models},
-  author={Turc, Iulia and Chang, Ming-Wei and Lee, Kenton and Toutanova, Kristina},
-  journal={arXiv preprint arXiv:1908.08962v2 },
-  year={2019}
-}
-
+@ARTICLE{26583204_325243423_2019, 
+    author = {Vladimir Barakhnin and Olga Kozhemyakina and Ravil Mukhamediev and Yulia Borzilova and Kirill Yakunin}, 
+    keywords = {, natural language processing, streaming word processing, text analysis information systemdevelopment of a text corpus processing system},
+    title = {<p class="text">The design of the structure of the software system for processing text document corpus</p>},
+    journal = {},
+    year = {2019},
+    number = {4 Vol.13},
+    pages = {60-72},
+    url = {https://bijournal.hse.ru/en/2019--4 Vol.13/325243423.html},
 ```
 
 Система медиа-мониторинга, покрывающая целый ряд задач:
