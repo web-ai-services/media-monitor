@@ -35,6 +35,10 @@
 
 # Interface
 <div align="center">
+    <img src=https://i.ibb.co/gjzbjZQ/rsz-analytics-2.png" >
+    <p>Topic Dynamic</p>
+</div>
+<div align="center">
     <img src=https://i.imgur.com/cdWbEnj.jpg" >
     <p>Geo Dashboard</p>
 </div>
